@@ -1,26 +1,142 @@
-# 💫 About Me:
-🔭 I’m currently studying at MRCET<br>👯 I’m looking to collaborate on innovative open-source projects and real-world applications<br>🤝 I’m looking for help with expanding my skills in full-stack development<br>💬 Ask me about web development, Python, Java and data structures
+<div align="center">
 
+<!-- ANIMATED HEADER - Use this free tool: https://capsule-render.vercel.app -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhanu%20Prasad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20that%20work&descAlignY=58&descSize=18)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhanu_21._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garavainabhanuprasad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garavainabhanuprasad21@gmail.com) 
+<!-- TYPING ANIMATION - Sign up free at https://readme-typing-svg.demolab.com -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=React+%2B+Node.js+%2B+MongoDB+developer;I+build+real+products%2C+not+just+demos;Open+to+remote+work+%26+freelance;Let%27s+build+something+great+together)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=garavainabhanuprasad21&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=garavainabhanuprasad21&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=garavainabhanuprasad21&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- PROFILE VIEWS + FOLLOWERS -->
+![Profile Views](https://komarev.com/ghpvc/?username=garavainabhanuprasad21&color=7C3AED&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/garavainabhanuprasad)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:garavainabhanuprasad21@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=garavainabhanuprasad21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=garavainabhanuprasad21&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=garavainabhanuprasad21&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👋 Hey, I'm Bhanu
+
+I'm a full-stack developer from Hyderabad, currently studying at MRCET and building things I'd actually want to use. I work across the entire stack — from React UIs to Node/Express APIs to MongoDB — and I care about code that's clean, fast, and shipped.
+
+I've built a face recognition attendance system, an e-commerce platform, and a blockchain-secured IoT data pipeline. Not tutorial projects. Real ones.
+
+**Currently:** Open to remote internships, freelance projects, and collaborations.
+
+---
+
+## 🚀 What I've Built
+
+### 🎭 [Attendance System with Face Recognition](https://github.com/garavainabhanuprasad21/Attendance-Management-System-Using-Face-Recognition)
+> Automated attendance tracking using live facial recognition — no manual entry, no proxy attendance.
+
+**Stack:** Python · OpenCV · Face Recognition · CSV/DB logging  
+**What makes it real:** Detects multiple faces in real time, logs attendance with timestamps, and handles unknown faces gracefully.
+
+---
+
+### 🛒 [MegaMart — E-Commerce Platform](https://github.com/garavainabhanuprasad21/MegaMart-Ecommerce)
+> A full e-commerce web app with product listings, cart, and checkout flow.
+
+**Stack:** HTML · CSS · JavaScript  
+**Status:** Functional MVP — adding authentication and payment gateway next.
+
+---
+
+### 🔐 [Blockchain-Based Secure IoT Data Transmission](https://github.com/garavainabhanuprasad21/Blockchain-Based-Secure-IOT-Data-Transmission)
+> Secures IoT sensor data using blockchain verification to prevent tampering in transit.
+
+**Stack:** TypeScript · Blockchain concepts · IoT protocols  
+**Why it matters:** Data integrity is the core problem in IoT — this solves it at the transmission layer.
+
+---
+
+### 📝 [Quick Notes App](https://github.com/garavainabhanuprasad21/Quick-Notes)
+> A simple, fast note-taking app built with Node.js and EJS templating.
+
+**Stack:** Node.js · Express · EJS · MongoDB
+
+---
+
+## 🛠️ My Core Stack
+
+<!-- SKILLS SECTION — only what I can actually build with -->
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<!-- STATS CARDS — these pull live data automatically -->
+<div align="center">
+
+![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garavainabhanuprasad21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garavainabhanuprasad21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+<!-- STREAK STATS — tracks your daily contribution streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=garavainabhanuprasad21&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<!-- SNAKE ANIMATION — follow setup steps below to enable this -->
+<!-- After setup, replace the URL with your actual username path -->
+![Snake animation](https://github.com/garavainabhanuprasad21/garavainabhanuprasad21/blob/output/github-contribution-grid-snake-dark.svg)
+
+> **To enable the snake:** Go to your profile repo → Actions tab → New workflow → paste the snake workflow YAML (link in the setup guide below). It runs daily and generates this automatically.
+
+---
+
+## 🎯 Currently Working On
+
+- 🔨 Polishing MegaMart — adding auth, payment, and deployment to Vercel
+- 📚 Deepening Next.js and REST API design skills
+- 🌍 Looking for a remote internship or freelance project to sink my teeth into
+
+---
+
+## 📬 Let's Work Together
+
+I'm open to **freelance projects**, **remote internships**, and **open-source collaboration**.
+
+If you have a product idea, a web app you need built, or just want to talk tech — reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-garavainabhanuprasad-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/garavainabhanuprasad)
+[![Gmail](https://img.shields.io/badge/Gmail-garavainabhanuprasad21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garavainabhanuprasad21@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-bhanu__21._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhanu_21._)
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+
+</div>
