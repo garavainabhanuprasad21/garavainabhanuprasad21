@@ -94,24 +94,10 @@ I've built a face recognition attendance system, an e-commerce platform, and a b
 <!-- STATS CARDS — these pull live data automatically -->
 <div align="center">
 
-![Bhanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garavainabhanuprasad21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garavainabhanuprasad21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
 <!-- STREAK STATS — tracks your daily contribution streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=garavainabhanuprasad21&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🔥 Contribution Graph
-
-<!-- SNAKE ANIMATION — follow setup steps below to enable this -->
-<!-- After setup, replace the URL with your actual username path -->
-![Snake animation](https://github.com/garavainabhanuprasad21/garavainabhanuprasad21/blob/output/github-contribution-grid-snake-dark.svg)
-
-> **To enable the snake:** Go to your profile repo → Actions tab → New workflow → paste the snake workflow YAML (link in the setup guide below). It runs daily and generates this automatically.
 
 ---
 
