@@ -27,27 +27,11 @@ I've built a face recognition attendance system, an e-commerce platform, and a b
 
 ## 🚀 What I've Built
 
-### 🎭 [Attendance System with Face Recognition](https://github.com/garavainabhanuprasad21/Attendance-Management-System-Using-Face-Recognition)
-> Automated attendance tracking using live facial recognition — no manual entry, no proxy attendance.
-
-**Stack:** Python · OpenCV · Face Recognition · CSV/DB logging  
-**What makes it real:** Detects multiple faces in real time, logs attendance with timestamps, and handles unknown faces gracefully.
-
----
-
 ### 🛒 [MegaMart — E-Commerce Platform](https://github.com/garavainabhanuprasad21/MegaMart-Ecommerce)
 > A full e-commerce web app with product listings, cart, and checkout flow.
 
 **Stack:** HTML · CSS · JavaScript  
 **Status:** Functional MVP — adding authentication and payment gateway next.
-
----
-
-### 🔐 [Blockchain-Based Secure IoT Data Transmission](https://github.com/garavainabhanuprasad21/Blockchain-Based-Secure-IOT-Data-Transmission)
-> Secures IoT sensor data using blockchain verification to prevent tampering in transit.
-
-**Stack:** TypeScript · Blockchain concepts · IoT protocols  
-**Why it matters:** Data integrity is the core problem in IoT — this solves it at the transmission layer.
 
 ---
 
@@ -103,7 +87,7 @@ I've built a face recognition attendance system, an e-commerce platform, and a b
 
 ## 🎯 Currently Working On
 
-- 🔨 Polishing MegaMart — adding auth, payment, and deployment to Vercel
+- 🔨 Polishing DriveX — adding auth, payment, and deployment to Vercel
 - 📚 Deepening Next.js and REST API design skills
 - 🌍 Looking for a remote internship or freelance project to sink my teeth into
 
