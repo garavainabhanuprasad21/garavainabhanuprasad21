@@ -17,7 +17,7 @@
 
 ## 👋 Hey, I'm Bhanu
 
-I'm a full-stack developer from Hyderabad, currently studying at MRCET and building things I'd actually want to use. I work across the entire stack — from React UIs to Node/Express APIs to MongoDB — and I care about code that's clean, fast, and shipped.
+I'm a full-stack developer from Hyderabad, recently graduated from MRCET and building things I'd actually want to use. I work across the entire stack — from React UIs to Node/Express APIs to MongoDB — and I care about code that's clean, fast, and shipped.
 
 I've built a face recognition attendance system, an e-commerce platform, and a blockchain-secured IoT data pipeline. Not tutorial projects. Real ones.
 
